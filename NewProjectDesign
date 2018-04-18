@@ -1,4 +1,10 @@
-I have changed the project design and have it looking more professional. 
-Which by the end of cass it will be a good reference for myself on how to do mobile programming. 
-I will have code and design images to show to progress.
+I have changed the project design and have it looking more professional. Which by the end of cass it will be a good
+reference for myself on how to do mobile programming. I will have code and design images to show to progress.
 I will tell more about the project in the commit.
+In the past, I have been having trouble with getting anything to work on my initial project for the class. 
+I have switched it up and changed everything about the project except for the information going into it. 
+The button never worked even trying to just get one to work, so I am going a whole different way with this project. 
+I am using a scroll layout and a relative layout. This way the buttons I could not getting work will not matter. 
+So, with that said, I have implemented a couple images and a little text into the app. Just to show I have been working 
+on it. I have been having issues but I seemed to get them figured out so far. I did implement the edit text, save, and 
+load buttons, which work. I have more to get into this but it has taking me a couple weeks just to get it to this point.
